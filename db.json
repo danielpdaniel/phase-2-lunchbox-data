@@ -1,10 +1,14 @@
 {
     "foods": [
         {
-            "name": "Oatmeal"
+            "name": "Oatmeal",
+            "origin": "Cincinatti, United States",
+            "story": "I used to eat oatmeal everyday before school. It was the instant kind, but it was just right to get my day started :)"
         },
         {
-            "name": "PB & J"
+            "name": "PB & J",
+            "origin": "Toronto, Canada",
+            "story": "My grandparents would make these for us to pack on camping trips!"
         }
     ]
 }
