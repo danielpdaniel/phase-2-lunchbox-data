@@ -3,11 +3,15 @@
         {
             "name": "Oatmeal",
             "origin": "Cincinatti, United States",
+            "image": "https://www.shefinds.com/files/2020/04/Instant_Oatmeal_Slide_4-scaled.jpg",
+            "imageAlt": "image of a bowl of oatmeal",
             "story": "I used to eat oatmeal everyday before school. It was the instant kind, but it was just right to get my day started :)"
         },
         {
             "name": "PB & J",
             "origin": "Toronto, Canada",
+            "image": "https://www.businessinsider.in/thumb/msid-81716160,width-700,height-525,imgsize-438063/The-best-way-to-make-a-peanut-butter-and-jelly-sandwich-according-to-chefs.jpg",
+            "imageAlt": "image of a pb & j sandwich",
             "story": "My grandparents would make these for us to pack on camping trips!"
         }
     ]
