@@ -1,5 +1,6 @@
 {
-    "name": "my-package",
+    "name": "our-lil-picnic-basket-data",
+    "version": "0.1.0",
     "scripts": {
       "build": "babel src -d lib",
       "test": "jest"
