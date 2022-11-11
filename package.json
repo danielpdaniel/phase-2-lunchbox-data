@@ -2,7 +2,10 @@
     "name": "our-lil-picnic-basket-data",
     "version": "0.1.0",
     "scripts": {
-      "build": "babel src -d lib",
-      "test": "jest"
+        "build": "babel src -d lib",
+        "test": "jest"
+    },
+    "dependencies": {
+        "yarn": "^1.22.19"
     }
-  }
+}
