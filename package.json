@@ -8,6 +8,7 @@
         "eject": "react-scripts eject"
     },
     "dependencies": {
+        "react-scripts": "^5.0.1",
         "yarn": "^1.22.19"
     }
 }
