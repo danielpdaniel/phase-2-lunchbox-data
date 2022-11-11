@@ -23,6 +23,14 @@
         "imageAlt": "Lobster!!!",
         "story": "I love Lobster!!! Once my friend surprised me for my birthday by buying some lobster to cook at our campsite. She stabbed through their heads thinking it would kill them quickly before flambéing, but instead they writhed and writhed...it was horrific. But I love eating lobster so much that it didn't deter me. On my birthday I spend over $100 eating lobster for every meal.  ",
         "id": 3
+      },
+      {
+        "name": "Snickerdoodle",
+        "origin": "Eugene, USA",
+        "image": "https://www.thespruceeats.com/thmb/vwM2fzCzZGfyJxh-N6fG-POhPJ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/classic-snickerdoodles-3053986-hero-01-91a5011c888e4c55b0eec78853b5fb61.jpg",
+        "imageAlt": "Cinnamon-covered cookies",
+        "story": "These are a fun and simple cookie to make, and I found a vegan recipe so my roommates can eat them too. I love baking for our whole little family as a way to show I care.",
+        "id": 4
       }
     ]
   }
