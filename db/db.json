@@ -3,49 +3,37 @@
       {
         "name": "Tuna Casserole",
         "origin": "Franklin, USA",
-        "image": "https://dashofsanity.com/wp-content/uploads/2017/09/TUNA-NOODLE-CASSEROLE-5-ps.png",
-        "imageAlt": "take a bite! of tuna casserole :)",
         "story": "I used to love tuna casserole my dad used to make it all the time as a kid then he stopped for some reason!!",
         "id": 1
       },
       {
         "name": "Eggnog",
         "origin": "Everywhere, USA",
-        "image": "https://bjs.scene7.com/is/image/bjs/33062?$bjs-Zoom$",
-        "imageAlt": "Try Some! It's Good :)",
         "story": "People say that they don't like eggnog but I just think that's because they've never had Hood's Golden Eggnog. I swear I can drink this like water. During the holidays I probably drink 5 gallons of this stuff. My dad always makes sure theres at least 2 gallons in the fridge when I come home for Christmas. Eggnog Season is Nov 1-Whenever they stop selling 'Nog.",
         "id": 2
       },
       {
         "name": "Lobster",
         "origin": "Maine, USA",
-        "image": "https://www.saveur.com/uploads/2019/02/08/KDOG4BJHWPBBGXDAWOOICB4O2Q.jpg?auto=webp",
-        "imageAlt": "Lobster!!!",
         "story": "I love Lobster!!! Once my friend surprised me for my birthday by buying some lobster to cook at our campsite. She stabbed through their heads thinking it would kill them quickly before flambéing, but instead they writhed and writhed...it was horrific. But I love eating lobster so much that it didn't deter me. On my birthday I spend over $100 eating lobster for every meal.  ",
         "id": 3
       },
       {
         "name": "Snickerdoodle",
         "origin": "Eugene, USA",
-        "image": "https://www.thespruceeats.com/thmb/vwM2fzCzZGfyJxh-N6fG-POhPJ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/classic-snickerdoodles-3053986-hero-01-91a5011c888e4c55b0eec78853b5fb61.jpg",
-        "imageAlt": "Cinnamon-covered cookies",
         "story": "These are a fun and simple cookie to make, and I found a vegan recipe so my roommates can eat them too. I love baking for our whole little family as a way to show I care.",
         "id": 4
       },
       {
         "name": "Avocado Toast With A Poached Egg",
         "origin": "Hoboken, USA",
-        "image": "https://i.postimg.cc/fk4JynLn/046552-C9-E772-4756-9-FEE-09-C4-F9293-F5-C.jpg",
-        "imageAlt": "Avocado Toast",
         "story": "I had avocado toast with a poached egg for the first time at a special birthday brunch. It was such a great day and the food was delicious!   I love how quick and easy it is  to make.",
         "id": 6
       },
       {
         "name": "Rice",
         "origin": "Topeca, USA",
-        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-pmX78Tzqd_A%2FWwz9XWId3iI%2FAAAAAAAAvP4%2Fi6sjo2mHNSUpUgptLdOjmSdXSj5E_J7NgCLcBGAs%2Fs1600%2FIMG_1720E.jpg&f=1&nofb=1&ipt=2459641ff480b642ada7fcd300a5b73d6beb7d9b12b864d45db19fa572479f3a&ipo=images",
-        "imageAlt": "a bowl of rice on a wood table",
-        "story": "This was my favorite food when I was little!",
+        "story": "This was my favorite food when I was a little kid!",
         "id": 5
       }
     ]
