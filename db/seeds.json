@@ -41,6 +41,13 @@
         "emoji": "🌭",
         "story": "Michigans are special hot dogs that are unique to Plattsburgh, NY! They remind me of summers spent on lake Champlain with amazing family and friends!",
         "id": 7
+      },
+      {
+        "name": "Chicken & Waffles",
+        "origin": "Ithaca, USA",
+        "emoji": "🧇",
+        "story": "I remember eating chicken and waffles from a place called Waffle Frolic outside on the Ithaca commons with friends... A perfect mix of sweet and savory!",
+        "id": 8
       }
     ]
   }
