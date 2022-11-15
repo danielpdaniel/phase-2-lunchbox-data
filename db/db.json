@@ -60,8 +60,8 @@
         "emoji": "🧇",
         "story": "I remember eating chicken and waffles from a place called Waffle Frolic outside on the Ithaca commons with friends... A perfect mix of sweet and savory!",
         "id": 8,
-        "yums": 0,
-        "ews": 0
+        "yums": 1,
+        "ews": 1
       },
       {
         "name": "Tuna-licious PB 'n' Pasta",
@@ -69,7 +69,7 @@
         "emoji": "🍝",
         "story": "We had just spent all our energy hand-making pasta. No energy left to make pasta sauce. But we did have... peanut butter. And canned tuna. Enough said.",
         "id": 9,
-        "yums": 0,
+        "yums": 2,
         "ews": 0
       }
     ]
